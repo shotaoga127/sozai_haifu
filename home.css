@@ -1,0 +1,19 @@
+.flex{
+    display: flex;
+    border: 1px solid #333;
+}
+.flex div{
+    border: 1px solid #333;
+    background: #CCC;
+}
+.right{
+    width: 200px;
+}
+.left{
+
+    /*ƒRƒŒ’Ç‰Á*/
+    width: calc(100% - 200px);
+}
+.menu{
+    color:white;
+}
